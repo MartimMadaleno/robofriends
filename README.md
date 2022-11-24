@@ -5,11 +5,11 @@ A simple portfolio
 ## Installation
 
 ```bash
-git clone https://github.com/MartimMadaleno/portfolio.git
+git clone https://github.com/MartimMadaleno/robofriends.git
 ```
 OR
 ```bash
-git clone git@github.com:MartimMadaleno/portfolio.git
+git clone git@github.com:MartimMadaleno/robofriends.git
 ```
 AND
 ```bash
